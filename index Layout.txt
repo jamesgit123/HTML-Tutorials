@@ -1,0 +1,44 @@
+
+<HTML>
+   	<head>
+		<title> My Website	</title>
+		<style>
+			#header {
+				background-color: #66CCFF;
+				color: white;
+			}
+		</style>
+   	</head>
+
+	<body>
+		<div id = "container">
+			<div id = "header">
+				<h1> My Website</h1>
+			</div>
+
+			<div id = "content">
+
+				<div id = "nav">
+					<h3> Navigation </h3>
+					<ul>
+					<li> Home </li>
+					<li> About </li>
+					<li>Contact </li>
+					</ul>
+				</div>
+				
+				<div id = "main">
+					<h2> Home Page </h2>
+					<p> This is my first paragraph.</p>
+					<p> This is my second paragraph.</p>
+					<p> This is my third paragraph.</p>
+				</div>
+
+			</div>
+
+			<div id = "footer">
+				Copyright @ 2016 James Line
+			</div>
+		</div>
+	</body>
+<HTML>
